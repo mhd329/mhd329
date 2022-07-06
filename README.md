@@ -14,9 +14,9 @@
 
 
 
-1. [commit](F:/study/TIL/commit 에 대한 개인적인 이해.md)
-2. [Markdown_memo](F:/study/TIL/markdown_study/Markdown_memo.md)
-3. [markdown_practice](F:/study/TIL/markdown_practice/markdown_practice.md)
+1. [commit](https://github.com/mhd329/TIL/blob/master/commit%20%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8%20%EC%9D%B4%ED%95%B4.md)
+2. [Markdown_memo](https://github.com/mhd329/TIL/blob/master/markdown_study/Markdown_memo.md)
+3. [markdown_practice](https://github.com/mhd329/TIL/blob/master/markdown_practice/markdown_practice.md)
 
 
 
