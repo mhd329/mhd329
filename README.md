@@ -2,7 +2,7 @@
 
 
 
-<img src="./my_profile.jpg" alt="my_profile.jpg" style="zoom:30%;" />
+![my_profile](README.assets/my_profile.jpg)
 
 
 
