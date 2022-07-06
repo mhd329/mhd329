@@ -10,6 +10,12 @@
 
 
 
+
+![HyeonDong Moon's GitHub](https://github-readme-stats.vercel.app/api?username=mhd329&show_icons=true&theme=synthwave)
+
+
+
+
 ## My study history
 
 
@@ -24,7 +30,7 @@
 
 
 
-![win_logo.png](README.assets/win_logo.png)![python_logo.png](README.assets/python_logo.png)![vsc_logo.png](README.assets/vsc_logo.png) 
+![windows 10](README.assets/Windows_10_Logo.svg.png) ![python](README.assets/python-logo-master-v3-TM.png) ![vsc](README.assets/pngwing.com.png)
 
 
 
