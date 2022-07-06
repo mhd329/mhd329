@@ -11,7 +11,10 @@
 
 
 
-![HyeonDong Moon's GitHub](https://github-readme-stats.vercel.app/api?username=mhd329&show_icons=true&theme=synthwave)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd329&show_icons=true&theme=synthwave)
+
 
 
 
