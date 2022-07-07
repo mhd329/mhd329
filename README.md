@@ -1,6 +1,4 @@
-# He has long hair !!
-
-
+# *1D 1C*...
 
 ![my_profile](README.assets/my_profile.jpg)
 
@@ -13,7 +11,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd329&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd329&show_icons=true&theme=dracula)
 
 
 
@@ -24,9 +22,8 @@
 
 
 1. [Commit organization](https://github.com/mhd329/TIL/blob/master/commit%20%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8%20%EC%9D%B4%ED%95%B4.md)
-2. [Markdown memo](https://github.com/mhd329/TIL/blob/master/markdown_study/Markdown_memo.md)
-3. [Markdown practice](https://github.com/mhd329/TIL/blob/master/markdown_practice/markdown_practice.md)
-3. [Git command organization](https://github.com/mhd329/TIL/blob/master/%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+2. [Git command organization](https://github.com/mhd329/TIL/blob/master/%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+3. [My TIL repository](https://github.com/mhd329/TIL)
 
 
 
@@ -41,7 +38,7 @@
 ## My goals
 
 - **Successful course completion at multi-campus (2022)**
-- **Engineer Information Processing (2022)**
+- **Engineer Information Processing (2023)**
 - **Creating useful modules that can be shared with many people with Python (2023)**
 - **Make your own game (don't know when)**
 
