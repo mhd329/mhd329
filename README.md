@@ -39,8 +39,10 @@
 
 - **Successful course completion at multi-campus (2022)**
 - **Engineer Information Processing (2023)**
+- **Solved.ac Gold(2023)**
 - **Creating useful modules that can be shared with many people with Python (2023)**
-- **Make your own game (don't know when)**
+- **Linux master advanced (2024)**
+- **Make your own game ( I don't know ~~~ when it will be ~ )**
 
 ## e-mail address
 
