@@ -2,38 +2,33 @@
 
 ![my_profile](README.assets/my_profile.jpg)
 
-
+<br>
 
 ***Aspiring developer who likes chess ...***
 
-
-
-
-
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd329&show_icons=true&theme=dracula)
 
-
-
-
+<br>
 
 ## My study history
 
-
+<br>
 
 1. [Commit organization](https://github.com/mhd329/TIL/blob/master/commit%20%EC%97%90%20%EB%8C%80%ED%95%9C%20%EA%B0%9C%EC%9D%B8%EC%A0%81%EC%9D%B8%20%EC%9D%B4%ED%95%B4.md)
 2. [Git command organization](https://github.com/mhd329/TIL/blob/master/%EB%AA%85%EB%A0%B9%EC%96%B4%20%EC%A0%95%EB%A6%AC.md#git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 3. [My TIL repository](https://github.com/mhd329/TIL)
 
-
+<br>
 
 ## My tools
 
-
+<br>
 
 ![windows 10](README.assets/Windows_10_Logo.svg.png) ![python](README.assets/python-logo-master-v3-TM.png) ![vsc](README.assets/pngwing.com.png)
 
-
+<br>
 
 ## My goals
 
@@ -46,21 +41,21 @@
 
 ## e-mail address
 
-
+<br>
 
 - mhd329@gmail.com
 
 - mhd329@naver.com
 
-
+<br>
 
 ## Instagram
 
-
+<br>
 
 ![hyeondongmoon_qr.png](README.assets/hyeondongmoon_qr.png) 
 
-
+<br>
 
 ## Note
 
