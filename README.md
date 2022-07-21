@@ -2,23 +2,22 @@
 
 <br>
 
-<center> 나만의 길을 걸어가요~~~ </center>
+<center>나만의 길을 걸어가요~~~</center>
 
 <br>
 
  
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=mhd329)](https://solved.ac/mhd329)
+<center>[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mhd329)](https://solved.ac/mhd329)</center>
 
 <br>
 
 
-![my_profile](README.assets/my_profile.jpg)
+<center>![my_profile](README.assets/my_profile.jpg)</center>
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd329&show_icons=true&theme=dracula)
+<center>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhd329&show_icons=true&theme=dracula)</center>
 
 <br>
 
@@ -59,7 +58,7 @@
 
 <br>
 
-![hyeondongmoon_qr.png](README.assets/hyeondongmoon_qr.png)
+<center>![hyeondongmoon_qr.png](README.assets/hyeondongmoon_qr.png)<center>
 
 <br>
 
