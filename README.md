@@ -1,15 +1,34 @@
+---
 
-
-# 반가워요~!!~
-
-<br>
-
-[TIL 바로가기](https://github.com/mhd329/TIL)
+<div align="center">[TIL 바로가기](https://github.com/mhd329/TIL)</div>
 
 <br>
 
-[![Video Label](http://img.youtube.com/vi/kDtf_s2iOSg/0.jpg)](https://youtu.be/kDtf_s2iOSg)
+<div align="center">[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mhd329)](https://solved.ac/mhd329)</div>
+
+---
+
+<div align="center">[![Video Label](http://img.youtube.com/vi/nvxRlEhLA3E/0.jpg)](https://youtu.be/nvxRlEhLA3E)</div>
 
 <br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mhd329)](https://solved.ac/mhd329)
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+    <br>
+    <br>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+</div>
+
+---
+
+<div align="center">
+    <h3>
+    그럼 이만 ... <img src="https://img.shields.io/badge/Adidas-000000?style=for-the-badge&logo=Adidas&logoColor=white">
+    </h1>
+</div>
+
