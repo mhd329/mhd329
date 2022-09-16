@@ -1,16 +1,22 @@
----
-
-<div align="center">[TIL 바로가기](https://github.com/mhd329/TIL)</div>
-
-<br>
-
-<div align="center">[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=mhd329)](https://solved.ac/mhd329)</div>
+<div align="center"><a href="https://github.com/mhd329/TIL" target="_blank">TIL 바로가기</a></div>
 
 ---
 
-<div align="center">[![Video Label](http://img.youtube.com/vi/nvxRlEhLA3E/0.jpg)](https://youtu.be/nvxRlEhLA3E)</div>
+<div align="center">
+    <h3>
+    반가워요 !!
+    </h3>
+</div>
 
-<br>
+---
+
+<div align="center"><a href="https://solved.ac/mhd329" target="_blank"><img src="http://mazassumnida.wtf/api/generate_badge?boj=mhd329"></a></div>
+
+---
+
+<div align="center"><a href="https://youtu.be/nvxRlEhLA3E" target="_blank"><img src="http://img.youtube.com/vi/nvxRlEhLA3E/0.jpg"></a></div>
+
+---
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -29,6 +35,5 @@
 <div align="center">
     <h3>
     그럼 이만 ... <img src="https://img.shields.io/badge/Adidas-000000?style=for-the-badge&logo=Adidas&logoColor=white">
-    </h1>
+    </h3>
 </div>
-
