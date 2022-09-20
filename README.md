@@ -1,4 +1,8 @@
-<div align="center"><a href="https://github.com/mhd329/TIL" target="_blank">TIL 바로가기</a></div>
+<div align="center">
+<a href="https://github.com/mhd329/TIL" target="_blank">TIL 바로가기</a>
+<br>
+<a href="https://mhd329.github.io/" target="_blank">깃허브.io 블로그 바로가기</a>
+</div>
 
 ---
 
