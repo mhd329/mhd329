@@ -18,7 +18,7 @@
 
 ---
 
-<div align="center"><a href="https://youtu.be/nvxRlEhLA3E" target="_blank"><img src="http://img.youtube.com/vi/nvxRlEhLA3E/0.jpg"></a></div>
+<div align="center"><a href="https://youtu.be/w2ApTs_jsXE" target="_blank"><img src="http://img.youtube.com/vi/w2ApTs_jsXE/0.jpg"></a></div>
 
 ---
 
@@ -38,6 +38,6 @@
 
 <div align="center">
     <h3>
-    그럼 이만 ... <img src="https://img.shields.io/badge/Adidas-000000?style=for-the-badge&logo=Adidas&logoColor=white">
+    드디어 Django 의 세계로 ... <img src="https://img.shields.io/badge/Adidas-000000?style=for-the-badge&logo=Adidas&logoColor=white">
     </h3>
 </div>
