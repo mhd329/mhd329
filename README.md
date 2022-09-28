@@ -8,9 +8,21 @@
 
 <div align="center">
     <h3>
-    반가워요 !!
+    	복습하여! 광명찾자!
     </h3>
+    <p>
+    	<a href="https://github.com/mhd329/TIL/tree/master/%EB%B3%B4%EC%B6%A9%EB%85%B8%ED%8A%B8">알고리즘 집중치료실 바로가기</a>
+    </p>
+    <p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JohnvonNeumann-LosAlamos.gif/200px-JohnvonNeumann-LosAlamos.gif" width="100" alt="존 폰 노이만">
+    	<img src="http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQCUUTlwrAsh5cZ9yds4YIELmAgLT-kyXXJ7vhrzQLriwYb3VQqSTToKpq7heaNcMZX" width="100" alt="앨런 튜링">
+    </p>
+    <p>
+        머리가 초기화되서 다시 하고 있답니다...
+    </p>
+
 </div>
+
 
 ---
 
@@ -41,3 +53,12 @@
     드디어 Django 의 세계로 ... <img src="https://img.shields.io/badge/Adidas-000000?style=for-the-badge&logo=Adidas&logoColor=white">
     </h3>
 </div>
+---
+
+<div align="center">
+	<h6>
+        <br>
+    	최종 수정일 2022 09 29
+    </h6>
+</div>
+
