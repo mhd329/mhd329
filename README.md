@@ -30,7 +30,10 @@
 
 ---
 
-<div align="center"><a href="https://youtu.be/w2ApTs_jsXE" target="_blank"><img src="http://img.youtube.com/vi/w2ApTs_jsXE/0.jpg"></a></div>
+<div align="center">
+<a href="https://youtu.be/w2ApTs_jsXE" target="_blank" style="margin: 1rem 2rem;"><img src="http://img.youtube.com/vi/w2ApTs_jsXE/0.jpg" style="width: 40%; height: 40%;"></a>
+<a href="https://youtu.be/lCGoAqbbNoI" target="_blank" style="margin: 1rem 2rem;"><img src="http://img.youtube.com/vi/lCGoAqbbNoI/0.jpg" style="width: 40%; height: 40%;"></a>
+</div>
 
 ---
 
@@ -50,15 +53,16 @@
 
 <div align="center">
     <h3>
-    드디어 Django 의 세계로 ... <img src="https://img.shields.io/badge/Adidas-000000?style=for-the-badge&logo=Adidas&logoColor=white">
+    정말 신비로운 장고네 !!
     </h3>
 </div>
+
+
 ---
 
 <div align="center">
 	<h6>
-        <br>
-    	최종 수정일 2022 09 29
+    	최종 수정일 2022 10 01
     </h6>
 </div>
 
