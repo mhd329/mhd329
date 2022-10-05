@@ -20,7 +20,6 @@
     <p>
         머리가 초기화되서 다시 하고 있답니다...
     </p>
-
 </div>
 
 
@@ -57,12 +56,14 @@
     </h3>
 </div>
 
+---
+
+<div align="center"><a href="https://github.com/mhd329/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhd329&layout=compact"></a></div>
 
 ---
 
 <div align="center">
 	<h6>
-    	최종 수정일 2022 10 01
+    	최종 수정일 2022 10 05
     </h6>
 </div>
-
