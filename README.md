@@ -2,7 +2,10 @@
 <a href="https://github.com/mhd329/TIL" target="_blank">TIL 바로가기</a>
 <br>
 <a href="https://mhd329.github.io/" target="_blank">깃허브.io 블로그 바로가기</a>
+<br>
+<a href="http://guarded-tundra-99188.herokuapp.com/" target="_blank">영화 리뷰 사이트</a>
 </div>
+
 
 ---
 
@@ -64,6 +67,7 @@
 
 <div align="center">
 	<h6>
-    	최종 수정일 2022 10 05
+    	최종 수정일 2022 10 25
     </h6>
 </div>
+
