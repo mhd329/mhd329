@@ -3,7 +3,9 @@
 <br>
 <a href="https://mhd329.github.io/" target="_blank">깃허브.io 블로그 바로가기</a>
 <br>
-<a href="http://nes-env.eba-9ycvw3yi.ap-northeast-2.elasticbeanstalk.com/" target="_blank">미대생 졸업작품 중계 서비스</a>
+<a href="https://www.mhd329-todoapp.shop/account/login/" target="_blank">Todoapp</a>
+<br>
+<a href="http://www.lambsbaaing.shop/" target="_blank">양 익명 댓글창</a>
 <br>
 <a href="https://mhd329.tistory.com/">Tistory</a>
 </div>
@@ -29,7 +31,7 @@
 
 <div align="center">
 	<h6>
-    	최종 수정일 2023 3 9
+    	최종 수정일 2023 8 23
     </h6>
 </div>
 
