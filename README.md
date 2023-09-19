@@ -3,12 +3,9 @@
 <br>
 <a href="https://mhd329.github.io/" target="_blank">깃허브.io 블로그 바로가기</a>
 <br>
-<a href="https://www.mhd329-todoapp.shop/account/login/" target="_blank">Todoapp</a>
-<br>
-<a href="http://www.lambsbaaing.shop/" target="_blank">양 익명 댓글창</a>
-<br>
 <a href="https://mhd329.tistory.com/">Tistory</a>
 </div>
+
 
 ---
 
@@ -31,7 +28,7 @@
 
 <div align="center">
 	<h6>
-    	최종 수정일 2023 8 23
+    	최종 수정일 2023. 09. 19
     </h6>
 </div>
 
