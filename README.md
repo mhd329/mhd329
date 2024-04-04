@@ -1,10 +1,9 @@
 <div align="center">
 <a href="https://github.com/mhd329/TIL" target="_blank">TIL 바로가기</a>
 <br>
-<a href="https://mhd329.github.io/" target="_blank">깃허브.io 블로그 바로가기</a>
-<br>
 <a href="https://mhd329.tistory.com/">Tistory</a>
 </div>
+
 
 
 ---
@@ -28,7 +27,6 @@
 
 <div align="center">
 	<h6>
-    	최종 수정일 2023. 09. 19
+    	최종 수정일 2024. 04. 04
     </h6>
 </div>
-
