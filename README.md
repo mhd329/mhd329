@@ -7,9 +7,18 @@
         Tistory
     </a>
 	<p>
-    	저장소 깔끔하게 정리하니까 참 보기 좋네요~!~!!~
+    	<iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/BOPkTrKdZ9s?si=xxDazCnKXH3TYPXL"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 					referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen>
+        </iframe>
     </p>
 </div>
+
 ![35287761_1862039130493091_8126206900036435968_n](https://github.com/mhd329/mhd329/blob/master/README.assets/35287761_1862039130493091_8126206900036435968_n.jpg?raw=true)
 
 <div align="center">
@@ -36,6 +45,7 @@
 
 <div align="center">
 	<h6>
-    	최종 수정일 2024. 07. 06
+    	최종 수정일 2024. 08. 10
     </h6>
 </div>
+
