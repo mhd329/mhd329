@@ -6,25 +6,14 @@
     <a href="https://mhd329.tistory.com/">
         Tistory
     </a>
-	<p>
-    	<iframe
-                width="560"
-                height="315"
-                src="https://www.youtube.com/embed/BOPkTrKdZ9s?si=xxDazCnKXH3TYPXL"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 					referrerpolicy="strict-origin-when-cross-origin"
-                allowfullscreen>
-        </iframe>
-    </p>
 </div>
-![35287761_1862039130493091_8126206900036435968_n](https://github.com/mhd329/mhd329/blob/master/README.assets/35287761_1862039130493091_8126206900036435968_n.jpg?raw=true)
 
-<div align="center">
-    <p>
-        Baa~~~~
-    </p>
-</div>
+
+
+[![lamb](http://img.youtube.com/vi/BOPkTrKdZ9s/0.jpg)](https://www.youtube.com/watch?v=BOPkTrKdZ9s)
+
+
+
 ---
 
 <div align="center"><a href="https://solved.ac/mhd329" target="_blank"><img src="http://mazassumnida.wtf/api/generate_badge?boj=mhd329"></a></div>
