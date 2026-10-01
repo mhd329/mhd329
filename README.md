@@ -1,7 +1,6 @@
 ### 문현동 · Backend / Infra Engineer
 
-만들고, 돌리고, 하나로 엮습니다.
-개발에서 끝내지 않고 배포랑 운영까지 직접 봅니다.
+개발/배포/운영 전 과정을 하나로 엮는 개발자 입니다.
 
 <a href="https://www.moon-core.com"><img src="https://img.shields.io/badge/Blog-moon--core.com-facc15?style=flat-square"></a>
 <a href="mailto:contact@moon-core.com"><img src="https://img.shields.io/badge/Mail-contact@moon--core.com-555?style=flat-square"></a>
@@ -9,11 +8,11 @@
 
 ---
 
-#### 지금 하는 것
+#### 현재
 
 - **제약사 영업전산 현대화** (한솔신약, 2025.12 ~ 2026.10)
-  VB6 영업관리를 C# 단일 프로그램으로 재구성하고 MES랑 통합.
-  SQL Server 2000 → 2019 이관, 189 테이블 검증 불일치 0. 2026.09.18부터 실운영 중
+  VB6 영업관리를 C# 단일 프로그램으로 업그레이드 하고 MES와 통합.
+  SQL Server 2000 -> 2019 이관, 189 테이블 검증 불일치 0. 2026.09.18부터 실운영 중
 - **사내 셀프호스팅 인프라** (GHMC, 2025.12 ~)
   Traefik v3 + Authentik SSO로 서비스 18종 1인 운영, 외부 개방은 80/443만.
   보안 감시 대시보드(secwatch), Suricata IDS, CCTV 관제 시스템 직접 개발
@@ -24,7 +23,7 @@
 
 - 오케이마트 · 사방넷/이카운트 ERP 연동 자동화, 업무량 70% 감소
 - 쇼엠 · 마케팅/공공데이터 크롤러 6개월간 13종 납품
-- 후본 · 3D 프린터 카메라 스트리밍 FPS 12 → 20
+- 후본 · 3D 프린터 카메라 스트리밍 FPS 12 -> 20
 
 #### Stack
 
