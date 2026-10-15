@@ -4,7 +4,6 @@
 
 <a href="https://www.moon-core.com"><img src="https://img.shields.io/badge/Blog-moon--core.com-facc15?style=flat-square"></a>
 <a href="mailto:contact@moon-core.com"><img src="https://img.shields.io/badge/Mail-contact@moon--core.com-555?style=flat-square"></a>
-<a href="https://solved.ac/mhd329"><img src="https://img.shields.io/badge/solved.ac-mhd329-17ce3a?style=flat-square"></a>
 
 ---
 
@@ -45,8 +44,6 @@
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
 </p>
 
-<a href="https://solved.ac/mhd329"><img src="http://mazassumnida.wtf/api/generate_badge?boj=mhd329"></a>
-
 [![lamb](http://img.youtube.com/vi/BOPkTrKdZ9s/0.jpg)](https://www.youtube.com/watch?v=BOPkTrKdZ9s)
 
-<sub>최종 수정일 2026. 10. 02</sub>
+<sub>최종 수정일 2026. 10. 15</sub>
